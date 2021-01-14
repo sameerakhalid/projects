@@ -1,0 +1,20 @@
+body{
+    background-color: rgba(128, 128, 128, 0.698);
+}
+.box{
+    background-color: white;
+    width: 6;
+    height: 32em;
+    margin: 2em;
+    
+}
+.box h1{
+    letter-spacing: 5px;
+    text-decoration:   underline;
+}
+.box img{
+    width: 200px;
+    height: 200px;
+    float: left;
+    padding: 7px;
+}

@@ -1,0 +1,38 @@
+body{
+    background-color:	#FFDEAD;
+}
+.intro h1{
+    letter-spacing: 12px; 
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    padding: 15px;
+    margin-top: 12px;
+    letter-spacing: 13px;
+}
+.box-1{
+    width:200px;
+    height:200px;
+    float: left;
+    display: block;
+    margin: auto;
+}
+.box-1 img{
+    width: 150px;
+    height: 150px;
+   display: block;
+   margin: auto;
+   
+    
+  
+}
+.box-1  p{
+    margin: 0;
+    letter-spacing: 6px;
+   clear: both;
+   text-align: center;
+    
+}
+.box-1 {
+    padding-left: 100px;
+}

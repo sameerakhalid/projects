@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("../imges-4/photo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.box{
+    text-align: center;
+    margin-top: 200px;
+    color:  #000;
+    letter-spacing: 32px;
+
+}
+.box p{
+    letter-spacing: 15px;
+    margin-top: 25px;
+    font-weight: bolder;
+    color: saddlebrown;
+}
+.btn1{
+    border-radius: 28px;
+  width: 150px;
+  height: 50px;
+    color: white;
+    background: black;
+    margin-top: 60px;
+ margin: auto 24;
+ margin-left: 80px;
+
+    
+}
